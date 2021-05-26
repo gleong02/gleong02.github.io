@@ -3,6 +3,15 @@
     src: url(MajorMonoDisplay-Regular.ttf);
 }
 
-h1 {
+@font-face {
+    font-family: amiko;
+    src: url(Amiko-Regular.ttf);
+}
+
+* {
     font-family: majorMono;
+}
+
+p {
+    font-family: amiko;
 }

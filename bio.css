@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(90deg, #0061FF, #60EFFF);
+}
+
+h1 {
+    font-size: 60px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+p {
+    color: white;
+}
+
+#back-container {
+    padding-left: 15px;
+    padding-top: 15px;
+    margin-bottom: 0px;
+}
+
+#back {
+    text-decoration: none;
+    font-size: 40px;
+    color: white;
+}
+
+
+#bio {
+    margin-top: 0px;
+    width: 80%;
+    padding-left: 15px;
+}
+
+#socials {
+    padding-left: 15px;
+}
+
+#contact {
+    font-family: majorMono;
+    font-size: 20px;
+}
+
+.icon {
+    text-decoration: none;
+}
+
+.icon > img {
+    max-width: 24px;
+}
+
+
