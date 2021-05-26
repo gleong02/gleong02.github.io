@@ -8,10 +8,19 @@
     src: url(Amiko-Regular.ttf);
 }
 
+@font-face {
+    font-family: amiko-bold;
+    src: url(Amiko-Bold.ttf);
+}
+
 * {
     font-family: majorMono;
 }
 
 p {
     font-family: amiko;
+}
+
+h2 {
+    font-family: amiko-bold;
 }
